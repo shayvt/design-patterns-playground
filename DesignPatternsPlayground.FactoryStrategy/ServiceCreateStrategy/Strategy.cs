@@ -1,4 +1,4 @@
-﻿namespace DesignPatternsPlayground.FactoryStrategy.ServiceCallFactory;
+﻿namespace DesignPatternsPlayground.FactoryStrategy.ServiceCreateStrategy;
 
 internal interface IStrategy
 {
